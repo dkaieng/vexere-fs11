@@ -1,0 +1,6 @@
+{
+  "dbUrl": "mongodb+srv://dkaieng:Alienware4593@cluster0.9ebev.mongodb.net/test",
+  "port": 3000,
+  "sgAPIKey": "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",
+  "jwtSignature": "vexerejwt"
+}
